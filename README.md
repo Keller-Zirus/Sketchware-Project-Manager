@@ -44,7 +44,7 @@ delete(projects.get(0));
 copy(new ProjectPaths(..));
 ```
 
-You can change projects settings
+### You can read / write project data file
 
 ## Kotlin
 
