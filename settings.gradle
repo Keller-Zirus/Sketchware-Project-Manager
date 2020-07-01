@@ -1,0 +1,3 @@
+include ':ProjectManager'
+include ':app'
+rootProject.name = "SketchWareProjectManagerExamole"
