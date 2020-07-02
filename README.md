@@ -41,7 +41,7 @@ ArrayList<ProjectModel> projects = projectsManager.getProjectsList();
 // delete project
 delete(projects.get(0));
 // copy project
-copy(new ProjectPaths(..));
+copy(projects.get(0).getProjectPaths(), ProjectPaths(..));
 ```
 
 #### You can read / write project data file
